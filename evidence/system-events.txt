@@ -1,0 +1,41 @@
+
+   ProviderName: Microsoft-Windows-DistributedCOM
+
+TimeCreated                     Id LevelDisplayName Message
+-----------                     -- ---------------- -------
+11/6/2026 10:39:06 PM        10016 Warning          The application-specific permission settings do not grant Local Activation permission for the COM Server…
+
+   ProviderName: Service Control Manager
+
+TimeCreated                     Id LevelDisplayName Message
+-----------                     -- ---------------- -------
+11/6/2026 10:33:22 PM         7040 Information      The start type of the IsolationSession service was changed from auto start to demand start.
+11/6/2026 10:32:49 PM         7040 Information      The start type of the IsolationSession service was changed from demand start to auto start.
+
+   ProviderName: Microsoft-Windows-Kernel-General
+
+TimeCreated                     Id LevelDisplayName Message
+-----------                     -- ---------------- -------
+11/6/2026 10:31:37 PM           16 Information      The access history in hive \??\C:\ProgramData\Packages\Microsoft.PowerShell_8wekyb3d8bbwe\S-1-5-21-41211…
+
+   ProviderName: BTHUSB
+
+TimeCreated                     Id LevelDisplayName Message
+-----------                     -- ---------------- -------
+11/6/2026 10:28:12 PM           18 Information      Windows cannot store Bluetooth authentication codes (link keys) on the local adapter. Bluetooth keyboard…
+
+   ProviderName: Microsoft-Windows-Kernel-Power
+
+TimeCreated                     Id LevelDisplayName Message
+-----------                     -- ---------------- -------
+11/6/2026 10:28:12 PM          566 Information      The system session has transitioned from 384 to 385.…
+11/6/2026 10:28:12 PM          507 Information      The system is exiting Modern Standby …
+
+   ProviderName: Microsoft-Windows-USB-USBHUB3
+
+TimeCreated                     Id LevelDisplayName Message
+-----------                     -- ---------------- -------
+11/6/2026 10:28:11 PM          205 Information      Re-enumerating a DRIPS blocking device that was previously removed when exiting low power epoch.        …
+11/6/2026 10:28:11 PM          205 Information      Re-enumerating a DRIPS blocking device that was previously removed when exiting low power epoch.        …
+11/6/2026 10:23:14 PM          205 Information      Re-enumerating a DRIPS blocking device that was previously removed when exiting low power epoch.        …
+

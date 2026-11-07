@@ -1,0 +1,5 @@
+
+Path   : Microsoft.PowerShell.Core\FileSystem::C:\Users\imkwr\Desktop\School\Fall 2026\Digital Forensics\df-mod3-sdm\evidence
+Owner  : LAPTOP-O9UHD15G\imkwr
+Access : {System.Security.AccessControl.FileSystemAccessRule, System.Security.AccessControl.FileSystemAccessRule, System.Security.AccessControl.FileSystemAccessRule, System.Security.AccessControl.FileSystemAccessRule}
+
